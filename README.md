@@ -7,3 +7,5 @@ Python project to grab text from Image and convert it Kannada or Hindi and conve
 UI is designed using python Streamlit 
 
 ## Enjoy  :)
+
+### If you need any help you can contacct me http://sanjaykotabagi.ml/ or linked in : https://www.linkedin.com/in/sanjaykotabagi/
